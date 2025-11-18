@@ -91,22 +91,23 @@ I love solving problems, building products, and teaching juniors programming & D
 
 ## 📌 Pinned Projects
 
-### 🔹 **SkillHub – Online Learning Platform**
+### 🔹 **Skill-HUB – Online Learning Platform**
 A full-stack MERN learning platform with authentication, course creation, enrollment, and dashboard.  
 **Tech:** React, Tailwind, Firebase, Express.js, MongoDB  
-🔗 Live: *Add Link*  
+🔗 Live: *https://skill-hub-clients-0.netlify.app/*  
 🔗 Repo: *Add GitHub Repo Link*
 
-### 🔹 **QuizHub – Online Quiz Application**
+### 🔹 **Solution-HUB – Online Emerging Problem Solution**
 Gamified quiz system with leaderboard, anti-cheat & bilingual support.  
 **Tech:** DRF, Bootstrap, JS  
-🔗 Live: *Add Link*  
-🔗 Repo: *Add GitHub Repo Link*
+🔗 Live: *https://solution-bazar.netlify.app/*  
+🔗 Repo: *https://github.com/programming-hero-web-course2/b12-a9-firesheild-Jobayed1408*
 
-### 🔹 **BookStore API – Django REST**
-Backend system for CRUD operations, authentication, and book management.  
+### 🔹 **APP-Creator – Django REST**
+A roject for get api request form local 
 **Tech:** Django REST Framework  
-🔗 Repo: *Add GitHub Repo Link*
+🔗 Live: *https://app-creator.netlify.app/installation*  
+🔗 Repo: *https://github.com/Jobayed1408/apps-creator*
 
 ---
 
