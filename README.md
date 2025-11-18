@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Skills:</h2>
 
-- <b>Expertise: C, C++, Python, HTML, CSS </b>
-- <b>Comfortable: Bootstrap, JavaScript, Data Structure & Algorithm</b>
-- <b>Familiers: React, Graph Algorithm</b>
+- <b>Expertise: C, C++, Html, Tailwind Css, Firebase, JS, React, MOngoDb, Python, HTML, CSS </b>
+- <b>Comfortable:  Data Structure & Algorithm</b>
+- <b>Familiers:, Graph Algorithm</b>
 - <b>Others: Linux basic, Git Manipulation</b>
 
 <h2>📺 Problem-Solving:</h2>
@@ -33,7 +33,7 @@
 <h2>- 🔭 I’m currently studying on: </h2>
 
 - <b> Bachelor of Science in Computer Science and Engineering | (2020 - present) | BGC TRUST UNIVERSITY BANGLADESH. 
-- <b> {Con. CGPA: 3.65 / 4.0} <b/>
+- <b> {Con. CGPA: 3.76 / 4.0} <b/>
 
 <h2>Language: </h2> 
 
@@ -53,8 +53,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Node js
+- 🌱 I’m currently learning ... Node js ,Express Js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
