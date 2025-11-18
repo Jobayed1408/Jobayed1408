@@ -103,7 +103,7 @@ Gamified quiz system with leaderboard, anti-cheat & bilingual support.
 🔗 Live: *https://solution-bazar.netlify.app/*  
 🔗 Repo: *https://github.com/programming-hero-web-course2/b12-a9-firesheild-Jobayed1408*
 
-### 🔹 **APP-Creator – Django REST**
+### 🔹 **APP-Creator**
 A roject for get api request form local 
 **Tech:** Django REST Framework  
 🔗 Live: *https://app-creator.netlify.app/installation*  
