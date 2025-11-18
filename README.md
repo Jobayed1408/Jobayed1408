@@ -1,64 +1,121 @@
-<h1>Hi, I'm Jobayed! <br/><a href="#">Programmer</a>, <a href="https://www.linkedin.com/in/mohammad-jobayed-b250571b8/">Linkedin</a>, <a href="http://codeforces.com/profile/mdjobayed">Codeforces</a>, <a href="http://codechef.com/users/md_jobayedi">Codechef </a></h1>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250.png?text=SkillHub+Developer+%7C+MERN+Stack+Learner" alt="Banner" />
+</p>
 
-<h2>👨‍💻 Skills:</h2>
+<h1 align="center">Hi, I'm <span style="color:#3b82f6">Mohammad Jobayed</span> 👋</h1>
+<h3 align="center">Full-Stack Developer (MERN) | Competitive Programmer | Tech Enthusiast</h3>
 
-- <b>Expertise: C, C++, Html, Tailwind Css, Firebase, JS, React, MOngoDb, Python, HTML, CSS </b>
-- <b>Comfortable:  Data Structure & Algorithm</b>
-- <b>Familiers:, Graph Algorithm</b>
-- <b>Others: Linux basic, Git Manipulation</b>
+---
 
-<h2>📺 Problem-Solving:</h2>
+## 🚀 About Me
 
-- <b>CodeChef: </b>
-  - <b>Solved 65 problems on Implementation,greedy, sortings, strings,  Stack, Queue, Searching etc…  </b>
-  - <b>Rank: 2* (1433)</b>
-  - <b>Profile: http://codechef.com/users/md_jobayedi</b>
-- <b>CodeForces:  </b> 
-  - <b>Solved 165 problems on  Implementation,greedy, sortings, strings,  Stack, Queue, Searching etc… </b> 
-  - <b>Rank: 978 (Highest - 978) </b> 
-  - <b>Profile: http://codeforces.com/profile/mdjobayed </b> 
-- <b>Programming outsbook: </b> 
-  - <b>Solved 221  problems on  Implementation, mathematics , Searching etc… </b> 
-  - <b>Rank: 67 </b> 
-  - <b>Name: CodeCraftsman (Mohammad Jobayed) </b> 
-  - <b>Site Link: https://school.outsbook.com/school </b> 
+I’m a passionate developer from **Bangladesh**, currently focusing on building full-stack projects using **React, Node.js, Express & MongoDB**.  
+I love solving problems, building products, and teaching juniors programming & DSA.
 
+- 🔥 Currently exploring **NEXT.js, MERN Stack, Firebase Auth**
+- 🎯 Working on: **Online Learning Platform**, **SkillHub**
+- 📘 I love teaching **Math, Physics & DSA**
+- 👨‍🏫 Mentor of my university programming club (trained 100+ students)
+- 🛠️ Enjoy building practical systems: quiz apps, dashboards, APIs, auth systems, etc.
 
-<h2>📺 Experience: </h2>
+---
 
-- <b>I participated in the ICPC 2023 Dhaka regional. Now I am a mentor of a programming club in my university and train over 100 students.  </b> 
-- <b>Over 5000 lines of code based on C , C++, Python and JavaScript. </b>
-- <b>Representing my university at the BASIS Student Forum and gaining industrial experience by working with professionals.</b>
+## 🛠️ Skills & Technologies
 
-<h2>- 🔭 I’m currently studying on: </h2>
+### 🚩 **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" height="40"/>
+</p>
 
-- <b> Bachelor of Science in Computer Science and Engineering | (2020 - present) | BGC TRUST UNIVERSITY BANGLADESH. 
-- <b> {Con. CGPA: 3.76 / 4.0} <b/>
+### 🎨 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" height="40"/>
+</p>
 
-<h2>Language: </h2> 
+### ⚙️ **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
+</p>
 
-- <b> English: Conversational or Working Proficiency </b>
-- <b> Bangla: Native </b>
-- <b> Hindi: Conversational </b>
+### 🗄️ **Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" height="40"/>
+</p>
 
+### 🔧 **Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,netlify" height="40"/>
+</p>
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-- <b>Email: mdjobayedislam4@gmail.com <b/>
-- <b>Linkedin: https://www.linkedin.com/in/mohammad-jobayed-b250571b8/ </b>
+## 🧮 Competitive Programming Stats
 
-<!--
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 **Codeforces**
+- Solved **165+** problems  
+- Highest Rating: **978**  
+🔗 Profile: http://codeforces.com/profile/mdjobayed
 
-Here are some ideas to get you started:
+### 🍽️ **CodeChef**
+- Solved **65+** problems  
+- Rating: **2★ (1433)**  
+🔗 Profile: http://codechef.com/users/md_jobayedi
 
-- 🔭 I’m currently working on ... Node js
-- 🌱 I’m currently learning ... Node js ,Express Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟢 **Outsbook**
+- Solved **221+** problems  
+- National Rank: **67**  
+🔗 https://school.outsbook.com/school
+
+---
+
+## 📫 Contact Me
+
+📍 Based in: **Bangladesh**  
+📧 Email: **mdjobayedislam4@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-jobayed-b250571b8/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdjobayed&theme=default" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjobayed&layout=compact" height="170"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+### 🔹 **SkillHub – Online Learning Platform**
+A full-stack MERN learning platform with authentication, course creation, enrollment, and dashboard.  
+**Tech:** React, Tailwind, Firebase, Express.js, MongoDB  
+🔗 Live: *Add Link*  
+🔗 Repo: *Add GitHub Repo Link*
+
+### 🔹 **QuizHub – Online Quiz Application**
+Gamified quiz system with leaderboard, anti-cheat & bilingual support.  
+**Tech:** DRF, Bootstrap, JS  
+🔗 Live: *Add Link*  
+🔗 Repo: *Add GitHub Repo Link*
+
+### 🔹 **BookStore API – Django REST**
+Backend system for CRUD operations, authentication, and book management.  
+**Tech:** Django REST Framework  
+🔗 Repo: *Add GitHub Repo Link*
+
+---
+
+## 🎯 Goals for 2025
+- Become a **Junior MERN Stack Developer**  
+- Deploy 10+ production-ready projects  
+- Master **DSA + System Design Basics**  
+- Contribute to open source  
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
