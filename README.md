@@ -102,7 +102,7 @@ A full-stack MERN learning platform with authentication, course creation, enroll
 A project for find real world problem and sell this site
 **Tech:** DRF, Bootstrap, JS  
 🔗 Live: *https://solution-bazar.netlify.app/*  
-🔗 Repo: *https://github.com/programming-hero-web-course2/b12-a9-firesheild-Jobayed1408*
+🔗 Repo: *https://github.com/Jobayed1408/solution-bazar*
 
 ### 🔹 **APP-Creator**
 A simple project for get api request form local and show data on the UI
