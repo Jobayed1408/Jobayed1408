@@ -99,13 +99,13 @@ A full-stack MERN learning platform with authentication, course creation, enroll
 🔗 Repo: *https://github.com/Jobayed1408/online-learning-platforms*
 
 ### 🔹 **Solution-HUB – Online Emerging Problem Solution**
-Gamified quiz system with leaderboard, anti-cheat & bilingual support.  
+A project for find real world problem and sell this site
 **Tech:** DRF, Bootstrap, JS  
 🔗 Live: *https://solution-bazar.netlify.app/*  
 🔗 Repo: *https://github.com/programming-hero-web-course2/b12-a9-firesheild-Jobayed1408*
 
 ### 🔹 **APP-Creator**
-A roject for get api request form local 
+A simple project for get api request form local and show data on the UI
 **Tech:** Django REST Framework  
 🔗 Live: *https://app-creator.netlify.app/installation*  
 🔗 Repo: *https://github.com/Jobayed1408/apps-creator*
