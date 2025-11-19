@@ -1,10 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=SkillHub+Developer+%7C+MERN+Stack+Learner" alt="Banner" />
+  <img src="https://i.ibb.co.com/Lz4TXvdd/Chat-GPT-Image-Nov-19-2025-09-59-23-AM.png" alt="Project Banner" width="100%" />
 </p>
 
+
 <h1 align="center">Hi, I'm <span style="color:#3b82f6">Mohammad Jobayed</span> 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Competitive Programmer | Tech Enthusiast</h3>
+<h3 align="center">Junior Developer (MERN) | Competitive Programmer | Tech Enthusiast</h3>
 
 ---
 
@@ -17,7 +18,7 @@ I love solving problems, building products, and teaching juniors programming & D
 - 🎯 Working on: **Online Learning Platform**, **SkillHub**
 - 📘 I love teaching **Math, Physics & DSA**
 - 👨‍🏫 Mentor of my university programming club (trained 100+ students)
-- 🛠️ Enjoy building practical systems: quiz apps, dashboards, APIs, auth systems, etc.
+- 👨‍🏫 Python Trainer at Digicon Technologies Ltd and trained 90 curious school students
 
 ---
 
@@ -95,7 +96,7 @@ I love solving problems, building products, and teaching juniors programming & D
 A full-stack MERN learning platform with authentication, course creation, enrollment, and dashboard.  
 **Tech:** React, Tailwind, Firebase, Express.js, MongoDB  
 🔗 Live: *https://skill-hub-clients-0.netlify.app/*  
-🔗 Repo: *Add GitHub Repo Link*
+🔗 Repo: *https://github.com/Jobayed1408/online-learning-platforms*
 
 ### 🔹 **Solution-HUB – Online Emerging Problem Solution**
 Gamified quiz system with leaderboard, anti-cheat & bilingual support.  
