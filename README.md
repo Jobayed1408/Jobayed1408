@@ -75,7 +75,28 @@ I love solving problems, building products, and teaching juniors programming & D
 </p>
 
 ---
+## 🏆 Achievements
 
+### 💻 Competitive Programming
+- Codeforces: 165+ problems solved, Highest Rating: 978  
+  [Profile](http://codeforces.com/profile/mdjobayed)
+- CodeChef: 65+ problems solved, 2★ rating  
+  [Profile](https://www.codechef.com/users/md_jobayedi)
+- Outsbook: 221+ problems solved, National Rank: 67  
+  [Profile](https://school.outsbook.com/school)
+
+### 👨‍🏫 Mentorship & Teaching
+- Mentor of university programming club – trained 100+ students  
+- Python Trainer at Digicon Technologies Ltd – trained 90 school students
+
+### 📌 Projects
+- **Skill-HUB** – Full-stack Online Learning Platform (MERN + Firebase + Tailwind)  
+  [Live Demo](https://skill-hub-clients-0.netlify.app/) | [Repo](https://github.com/Jobayed1408/online-learning-platforms)  
+- **Solution-HUB** – Real-world problem solution platform (DRF + Bootstrap + JS)  
+  [Live Demo](https://solution-bazar.netlify.app/) | [Repo](https://github.com/Jobayed1408/solution-bazar)  
+- **APP-Creator** – API fetch & display project (Django REST Framework)  
+  [Live Demo](https://app-creator.netlify.app/installation) | [Repo](https://github.com/Jobayed1408/apps-creator)
+✅ Benefits of this format:
 ## 🧮 Competitive Programming Stats
 
 ### 🧑‍💻 **Codeforces**
