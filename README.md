@@ -48,31 +48,7 @@ I love solving problems, building products, and teaching juniors programming & D
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-### 🚩 **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" height="40"/>
-</p>
 
-### 🎨 **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" height="40"/>
-</p>
-
-### ⚙️ **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
-</p>
-
-### 🗄️ **Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" height="40"/>
-</p>
-
-### 🔧 **Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,netlify" height="40"/>
-</p>
 
 ---
 ## 🏆 Achievements
