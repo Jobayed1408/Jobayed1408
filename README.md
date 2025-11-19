@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm <span style="color:#3b82f6">Mohammad Jobayed</span> 👋</h1>
-<h3 align="center">Junior ForntEnd Developer (MERN) | Competitive Programmer | Tech Enthusiast</h3>
+<h3 align="center">Junior ForntEnd Developer (MERN) | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
