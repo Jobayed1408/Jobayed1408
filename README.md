@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-I’m a passionate developer from **Bangladesh**, currently focusing on building full-stack projects using **React, Node.js, Express & MongoDB**.  
+I’m a passionate developer from **Bangladesh**, currently focusing on building MERN projects using **React, Node.js, Express & MongoDB**.  
 I love solving problems, building products, and teaching juniors programming & DSA.
 
-- 🔥 Currently exploring **NEXT.js, MERN Stack, Firebase Auth**
+- 🔥 Currently exploring **NEXT.js, React Animation library, MERN Stack, Firebase Auth**
 - 🎯 Working on: **Online Learning Platform**, **SkillHub**
 - 📘 I love teaching **Math, Physics & DSA**
 - 👨‍🏫 Mentor of my university programming club (trained 100+ students)
