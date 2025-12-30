@@ -66,12 +66,12 @@ I love solving problems, building products, and teaching juniors programming & D
 - Python Trainer at Digicon Technologies Ltd – trained 90 school students
 
 ### 📌 Projects
+- **Contest-Hub** – Full Stack Contest Management Platform  
+  [Live Demo](https://contesthub-mernstack.netlify.app/) | [Repo](https://github.com/Jobayed1408/ContestHub)
 - **Skill-HUB** – Full-stack Online Learning Platform (MERN + Firebase + Tailwind)  
   [Live Demo](https://skill-hub-clients-0.netlify.app/) | [Repo](https://github.com/Jobayed1408/online-learning-platforms)  
 - **Solution-HUB** – Real-world problem solution platform (DRF + Bootstrap + JS)  
   [Live Demo](https://solution-bazar.netlify.app/) | [Repo](https://github.com/Jobayed1408/solution-bazar)  
-- **APP-Creator** – API fetch & display project (Django REST Framework)  
-  [Live Demo](https://app-creator.netlify.app/installation) | [Repo](https://github.com/Jobayed1408/apps-creator)
 ✅ Benefits of this format:
 ## 🧮 Competitive Programming Stats
 
