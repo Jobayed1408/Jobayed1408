@@ -114,23 +114,24 @@ I love solving problems, building products, and teaching juniors programming & D
 
 ## 📌 Pinned Projects
 
+
+### 🔹 **Contest-Hub**
+Full Stack Contest Management Platform
+**Tech:** React, Node.js/Express, MongoDB, authentication, secure APIs, role-based access, payment flow, and deployment. 
+🔗 Live: *https://contesthub-mernstack.netlify.app/*  
+🔗 Repo: *https://github.com/Jobayed1408/ContestHub*
+
 ### 🔹 **Skill-HUB – Online Learning Platform**
 A full-stack MERN learning platform with authentication, course creation, enrollment, and dashboard.  
 **Tech:** React, Tailwind, Firebase, Express.js, MongoDB  
 🔗 Live: *https://skill-hub-clients-0.netlify.app/*  
-🔗 Repo: *https://github.com/Jobayed1408/online-learning-platforms*
+🔗 Repo: *https://github.com/Jobayed1408/online-learning-platforms* 
 
-### 🔹 **Solution-HUB – Online Emerging Problem Solution**
+### 🔹 **Solution-HUB – Online Emerging Problem Solution** 
 A project for find real world problem and sell this site
 **Tech:** DRF, Bootstrap, JS  
 🔗 Live: *https://solution-bazar.netlify.app/*  
 🔗 Repo: *https://github.com/Jobayed1408/solution-bazar*
-
-### 🔹 **APP-Creator**
-A simple project for get api request form local and show data on the UI
-**Tech:** Django REST Framework  
-🔗 Live: *https://app-creator.netlify.app/installation*  
-🔗 Repo: *https://github.com/Jobayed1408/apps-creator*
 
 ---
 
