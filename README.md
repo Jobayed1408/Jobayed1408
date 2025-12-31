@@ -103,7 +103,7 @@ I love solving problems, building products, and teaching juniors programming & D
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://i.ibb.co.com/DPmHhvnv/github-profile-2.png" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjobayed&theme=default" height="170"/>
 </p>
 
 <p align="center">
